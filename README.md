@@ -1,3 +1,3 @@
-# MultiImage
+# TFMultiImage
 
-The image base utilities to easily convert between RGB, BGR, unit8, float32, and PIL images.
+The image base utilities to easily convert between RGB, BGR, unit8, float32, and PIL images. Includes TensorFlow for hue adjustment.
