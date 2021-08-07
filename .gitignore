@@ -1,0 +1,10 @@
+#Customization
+.vscode/
+
+#Development Environments
+env/
+dist/
+
+#Cache
+__pycache__/
+.pytest_cache/
