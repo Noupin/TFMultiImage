@@ -12,7 +12,7 @@ print(setuptools.find_packages())
 
 setuptools.setup(
     name="TFMultiImage",
-    version="1.0.0",
+    version="1.0.1",
     author="Noupin",
     author_email="author@example.com",
     description="Package for easy image conversion.",
